@@ -9,6 +9,7 @@ public class NewconactTest {
 	{
 		System.out.println("SELENIUM");
 		System.out.println("test1");
+		System.out.println("test1");
 	}
 
 }
