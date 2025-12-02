@@ -8,6 +8,7 @@ public class NewconactTest {
 	public void simpletest()
 	{
 		System.out.println("SELENIUM");
+		System.out.println("test1");
 	}
 
 }
